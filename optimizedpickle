@@ -1,0 +1,2 @@
+import pickle
+pickle.dump(optimized_rf, open("optimized_rf.pkl", "wb"))
